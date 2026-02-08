@@ -5,3 +5,15 @@ venv
 **/__pycache__
 **/*.egg-info
 kuksa-client/dist
+
+# Dart/Flutter artifacts (for kuksa_client_dart package)
+kuksa_client_dart/.dart_tool/
+kuksa_client_dart/.packages
+kuksa_client_dart/pubspec.lock
+kuksa_client_dart/**/*.g.dart
+kuksa_client_dart/**/*.pb.dart
+kuksa_client_dart/**/*.pbenum.dart
+kuksa_client_dart/**/*.pbgrpc.dart
+kuksa_client_dart/**/*.pbjson.dart
+kuksa_client_dart/build/
+kuksa_client_dart/coverage/
