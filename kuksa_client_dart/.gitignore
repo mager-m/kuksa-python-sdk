@@ -1,0 +1,25 @@
+# Dart/Flutter artifacts
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+*.g.dart
+*.pb.dart
+*.pbenum.dart
+*.pbgrpc.dart
+*.pbjson.dart
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*~
